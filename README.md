@@ -1,6 +1,6 @@
-**README: Brain Tumor Detection using MRI and Advanced Algorithms**
+**README: Brain Tumor Detection using Convolutional Neural Network**
 
-![Brain Tumor Detection]([https://yourimageurl.com/brain-tumor-image.jpg](https://biomedpharmajournal.org/wp-content/uploads/2018/09/Vol11No3_Bra_See_fig2.jpg))
+![Brain Tumor Classification](https://biomedpharmajournal.org/wp-content/uploads/2018/09/Vol11No3_Bra_See_fig2.jpg)
 
 ## Project Description
 
@@ -12,7 +12,7 @@ Brain tumors can have serious consequences if not detected early. This project f
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Algorithm Overview](#algorithm-overview)
-- [Results](#results)
+- [Result](#result)
 
 ## Introduction
 
@@ -20,7 +20,8 @@ Early detection of brain tumors is crucial as they can exert pressure on neighbo
 
 ## Dataset
 
-The dataset used in this project was obtained from [Kaggle]
+The dataset used in this project was obtained from Kaggle.
+
 Dataset Br35H: 
 https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
 
@@ -41,7 +42,7 @@ The Brain Tumor Detection algorithms utilized in this project involve a series o
 For more in-depth insights into the algorithm implementation and its specific methodologies, refer to the code documentation.
 
 
-## Results
+## Result
 
 The advanced algorithms used in this project have achieved an impressive accuracy ranging from 98% to 98.74% in detecting brain tumors from MRI scans. The high accuracy demonstrates the effectiveness of the automated system in correctly identifying tumor regions with precision.
 
@@ -53,6 +54,7 @@ The documentation includes detailed evaluation metrics, providing a comprehensiv
 
 
 
+##
 
 I believe that this project will make a meaningful contribution to the field of medical imaging and improve the efficiency of brain tumor diagnosis. Your valuable feedback and support are crucial to me.
 
